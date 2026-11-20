@@ -35,7 +35,7 @@ Description (the required line, word for word, plus the play code):
 
 > Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
 >
-> Play code: `makefun-...` (one of the account's four codes for this bounty)
+> Play code: `makefun-clipper-wagon-lamp` (code 0 of the account's four codes for this bounty — any one of the four passes)
 
 `VIDEO.json` at the repository root names the video's address, as YouTube's Share button gives it.
 
